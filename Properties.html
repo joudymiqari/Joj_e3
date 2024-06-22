@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+ <head>
+    <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Properties Page</title>
+   <link rel="stylesheet" href="./style.css">
+  </head>
+  <h1 class="T">Al-Ahlam Real Estate Company</h1>
+
+ <body>
+    <header>
+        <img  src="India.png" id="imgheader" alt="header"> 
+     </header>
+ <section class="my-table">
+ <div class="continer">
+<table>
+  <thead>
+    <tr>
+    <th> المدينة</th>
+    <th>تفاصيل</th>
+    <th>الإيجار الشهري</th>
+    <th>إظهار التفاصيل</th>
+    <th>الإختيار</th>
+    </tr>
+  </thead>
+  <tbody id="flats">
+ 
+
+</tbody>
+</table>
+
+<br>
+<div id="submit-cancle">
+    <button id="submit" onclick="submitFunc();">متابعة</button>
+</div>
+<br>
+<hr>
+<!-- بداية النموذج -->
+<div id="purchaseForm" style="display: none;">
+    <form id="index.html">
+        <label for="fullName">:الاسم الكامل</label>
+        <input type="text" id="fullName" name="fullName" placeholder="(الاسم (اختياري" modality="[ء-ي ]+">
+        <br>
+        <label for="nationalID">:الرقم الوطني</label>
+        <input type="text" id="nationalID" name="nationalID" maxlength="14" placeholder="(اجباري)الرقم الوطني " required modality ="[0-9]+">
+        <br>
+        <label for="birthDate" >:تاريخ الميلاد</label>
+        <input type="date" id="birthDate" name="birthDate" min="1980-01-01" max="2035-5-01">
+        <br>
+        <label for="mobileNumber">:رقم الموبايل</label>
+        <input type="tel" id="mobileNumber" name="mobileNumber" placeholder="EX: 0988330000(اختياري)" maxlength="10"
+            modality="(09[0-9]{8}|093[0-9]{7})">
+            <br>
+        <label for="email">:البريد الالكتروني</label>
+        <input type="email" id="email" name="email" placeholder="اختياري">
+        <br>
+        <label for="verification"><b> انقر على تحديث الرمز</b></label>
+
+        <input type="text" id="txtCaptcha"
+            style="text-align: center; border: none; font-weight: bold; font-size: 20px; font-family: Modern" />
+             <br>
+        <input type="text" placeholder="ادخل الرمز هنا" id="txtCompare" required />
+        <input type="button" id="Ju5l8F" value="تحديث الرمز" onclick="Captcha();" />
+
+        <br>
+
+    </form>
+                    <button id="sub">إرسال</button>
+
+</div>
+<br>
+<hr>
+<footer>
+    <ol id="link">
+
+    
+       
+        <a class= "link3"  href="./index.html"  target="_blank" title="Go To Home Page ">Home Page</a>
+        <br>
+        <br>
+        <a class="link2"  href="./AboutUs.html" target="_blank" title="Go To AboutUs Page"> AboutUs Page</a>
+        <br>
+        <br>
+        <a class= "link1"   href="./Properties.html" target="_blank" title="Go To Properties Page">Properties Page</a>
+        <br>
+
+    
+
+
+    </ol>
+    <br>
+</footer>
+<script src="./myfuction.js"></script>
+
+</body>

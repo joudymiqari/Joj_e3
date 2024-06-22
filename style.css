@@ -1,0 +1,230 @@
+/*Css Home Page*/
+.Dr{
+    font:1.5em;
+    font-weight: bold ;
+    color: white;
+    margin: auto ;
+    text-align: center;
+    background-color: rgb(0, 173, 145);
+    font-size:100%;
+    padding: 5px;
+    width: 1490px; ;
+  }
+  .tablestudent{
+  font:1.5em;
+  font-weight: bold ;
+  color: white;
+  margin: auto ;
+  text-align: center;
+  background-color:rgb(0, 173, 145);
+  font-size:100%;
+  padding: 5px;
+  width: 1490px;
+  }
+ 
+  
+  #myTable th{
+  font-size: 18px;
+  font-weight: bold ;
+  background-color:rgb(0, 173, 145);
+  color:white;
+  text-align:center;
+  padding:13px;
+  }
+  #myTable td{
+  text-align: center;
+  font: 1.15em;
+  padding: 10px;
+  background-color:silver;
+  }
+  #link{
+  text-align: center;
+  }
+  
+  .link1,
+  .link2,
+  .link3{
+  padding: 5px;
+  background-color:rgb(0, 173, 145);
+  color: black;
+  border-radius: 4px;
+  text-decoration: none;
+  
+  }
+  
+  /* CSS About Us Page */
+  .T{
+    text-align: left;
+  }
+  main{
+    max-width: 700px;
+    margin: 0 auto;
+    color: #01040f;
+    font-family:Arial, Helvetica, sans-serif ;
+  }
+  p,
+  ul{
+    font-size: 20px;
+    text-align: right;
+    margin: 15px;
+  }
+
+  h1 {
+  text-align: right;
+  margin: 15px;
+  }
+  h1{
+    text-align: right;
+  }
+  
+  #imgheader{
+    background-size: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    height: 300px;
+    width: 1500px;
+  }
+  
+  /*Css properties Page*/
+  *{
+    margin: 0;
+  
+  }
+  .my-table{
+  
+  background-color:white;
+  display: flex;
+  justify-content: center;
+  }
+  .continer{
+  
+    width: 100%;
+  
+  
+  }
+  table{
+    width: 1500px
+  
+  }
+  table thead{
+    background-color:   rgb(0, 173, 145) ;
+  
+  }
+  table thead tr{
+    height: 40px;
+  
+  }
+
+  table tbody{
+      background-color:   silver ;
+    
+  }
+  table tbody tr{
+  text-align:center;
+  width: 100%;
+  }
+  
+  .text{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  }
+  .text li{
+    margin: 10px 0px;
+  }
+  .imge{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 20px;
+  }
+  img{
+  width: 200px;
+  }
+  .hid{
+    display: none;
+  }
+  #submit-cancle{       
+    text-align: center;
+  }
+  #submit{
+    text-align: center;
+    background-color:rgb(0, 173, 145);
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+ 
+  button{
+    text-align: center;
+    background-color:rgb(0, 173, 145);
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  #purchaseForm {
+    display: none;
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: right;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0;
+    text-align: right;
+    font-size: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+  }
+  #index.html{
+  font-size: 20px;
+  color:#000000;
+  font-weight: bold;
+  }
+  input{
+  box-shadow: 3px 3px 7px #5f6b69;
+  }
+  #Ju5l8F{
+    cursor: pointer;
+    color: black;
+    background-color: grey;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+  thead{
+  font-size: 16px;
+  }
+  .tbodyProduct{
+  font-size: 18px;
+  }
+  
+  #link{
+  text-align: center;
+  margin-top: 20px;
+  }
+  
+  .link1,
+  .link2,
+  .link3{
+  padding: 5px;
+  background-color: silver;
+  color: black;
+  border-radius: 4px;
+  text-decoration: none;
+  
+  }
+  

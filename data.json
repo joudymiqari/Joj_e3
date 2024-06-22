@@ -1,0 +1,175 @@
+[
+
+    {
+     "city":"عمّان" ,
+     "dital":"مساحة 120م" ,
+     "rent":"600 دينار",
+     "aria":"الجيزة" ,
+     "garage":"نعم" ,
+     "storey":"الرابع",
+     "furnished":"نعم",
+     "space":"14م" ,
+     "property":"طابو",
+     "img1":"./img11.jpg",
+     "img2":"./img14.jpg",
+     "img3":"./img5.jpg"
+    
+    }
+    
+    ,
+    
+    {
+        "city":"الزرقاء" ,
+        "dital":"مساحة 150م" ,
+        "rent": "280 دينار",
+        "aria":"الجبل الشمالي" ,
+        "garage":"لا" ,
+        "storey": "الثاني",
+        "furnished":"نعم",
+        "space":"16م" ,
+        "property": "طابو",
+        "img1":"./img4.jpeg",
+        "img2":"./img15.jpg",
+        "img3":"./img3.jpg"
+        
+      
+    
+        
+    } 
+    ,
+    
+    {
+        "city":"البلقاء" ,
+        "dital":"مساحة 200م" ,
+        "rent": "700 دينار",
+        "aria":"لواء عين باشا" ,
+        "garage":"نعم" ,
+        "storey": "الأول",
+        "furnished":"لا",
+        "space":"20م" ,
+        "property": "طابو",
+        "img1":"./img8.jpg",
+        "img2":"./img22.jpg",
+        "img3":"./img9.jpg"
+    
+    } 
+    ,
+    
+    {
+        "city":"المفرق" ,
+        "dital":"مساحة 100م" ,
+        "rent": "150 دينار",
+        "aria":" الزهور " ,
+        "garage":"لا" ,
+        "storey": "الثالث",
+        "furnished":"لا",
+        "space":"16م" ,
+        "property": "طابو",
+        "img1":"./img26.jpg",
+        "img2":"./img29.jpg",
+        "img3":"./img25.jpg"
+        
+    } 
+    ,
+    
+    {
+        "city":"إربد" ,
+        "dital":"مساحة 200م" ,
+        "rent": "700 دينار",
+        "aria":"  المزار الشمالي" ,
+        "garage":"نعم" ,
+        "storey": "الأول",
+        "furnished":"لا",
+        "space":"30م" ,
+        "property": "طابو",
+        "img1":"./img24.jpg",
+        "img2":"./img30.jpg",
+        "img3":"./img27.jpg"
+        
+    } 
+    ,
+    
+    {
+        "city":"معان" ,
+        "dital":"مساحة 200م" ,
+        "rent": "800 دينار",
+        "aria":"الكرم" ,
+        "garage":"نعم" ,
+        "storey": "الثاني",
+        "furnished":"نعم",
+        "space":"25م" ,
+        "property": "طابو",
+        "img1":"./img7.jpg",
+        "img2":"./img32.jpg",
+        "img3":"./img6.jpeg"
+        
+    } 
+    ,
+    
+    {
+        "city":"عجلون" ,
+        "dital":"مساحة 150م" ,
+        "rent": "400 دينار",
+        "aria":" الهاشمية " ,
+        "garage":"لا" ,
+        "storey": "الخامس",
+        "furnished":"نعم",
+        "space":"19م" ,
+        "property": "طابو",
+        "img1":"./img19.jpg",
+        "img2":"./img33.jpg",
+        "img3":"./img37.jpg"
+        
+    } 
+    ,
+    
+    {
+        "city":"الكرك" ,
+        "dital":"مساحة 250م" ,
+        "rent": "500 دينار",
+        "aria":" الجديدة " ,
+        "garage":"لا" ,
+        "storey": "الرابع",
+        "furnished":"نعم",
+        "space":"25م" ,
+        "property": "طابو",
+        "img1":"./img13.jpg",
+        "img2":"./img35.jpg",
+        "img3":"./img20.jpg"
+        
+    } 
+    ,
+    
+    {
+        "city":"مادبا" ,
+        "dital":"مساحة 150م" ,
+        "rent": "600 دينار",
+        "aria":" الروابي " ,
+        "garage":"نعم" ,
+        "storey": "الأول",
+        "furnished":"نعم",
+        "space":"20م" ,
+        "property": "طابو",
+        "img1":"./img10.jpeg",
+        "img2":"./img28.jpg",
+        "img3":"./img36.jpg"
+    } 
+    ,
+    {
+        "city":"جرش" ,
+        "dital":"مساحة 150م" ,
+        "rent": "600 دينار",
+        "aria":" ريمون " ,
+        "garage":"نعم" ,
+        "storey": "الأول",
+        "furnished":"نعم",
+        "space":"20م" ,
+        "property": "طابو",
+        "img1":"./img12.jpeg",
+        "img2":"./img39.jpg",
+        "img3":"./img38.jpg"
+    } 
+    
+    ]
+    
+    
